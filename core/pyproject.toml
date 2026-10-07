@@ -18,7 +18,7 @@ dependencies = [
     "coolname>=1.1.0",
     "numpy>=2",
     "numba==0.61.2",
-    "json-repair==0.40.0",
+    "json-repair==0.61.7",
     "pyyaml>=6.0",
     "fastapi>=0.109.0",
     "uvicorn>=0.27.0",
